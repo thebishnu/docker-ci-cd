@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 #Command to run application
-CMD [ "node", "index.js" ]
+CMD [ "node", "src/index.js" ]
